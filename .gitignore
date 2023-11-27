@@ -1,0 +1,4 @@
+*.log
+ML_Data_SiCPowerMOSFET.csv
+.ipynb_checkpoints/*
+.DS_Store
